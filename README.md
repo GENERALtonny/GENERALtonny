@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GENERALtonny
+- 👋 Hi, I’m @PANDA
 - 👀 I’m interested in FUN
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on FUN TOGETHER WHILE CODDING
